@@ -3,5 +3,5 @@ Solves a Tile placement Constraint Satisfaction Problem using AC3 algorithm with
 
 Use the following command to run the program:
 ```
-pyhton3 Main.py example3.py
+python3 Main.py example3.py
 ```
